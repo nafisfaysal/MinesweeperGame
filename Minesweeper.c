@@ -1,5 +1,4 @@
 #include<stdio.h>
-//#include<conio.h>
 #define GRID_SIZE 9
 
 int field[GRID_SIZE][GRID_SIZE];
